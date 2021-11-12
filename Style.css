@@ -1,0 +1,54 @@
+/* font-family: 'Lobster', cursive; */
+
+body {
+    background-image: url(Cybersecurity2.jpg);
+    background-size: cover;
+}
+
+
+section h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    color: whitesmoke;
+    text-shadow: 3px 3px 3px lightblue;
+    text-align: center;
+}
+
+section h2 {
+    font-family: 'Lobster', cursive;
+    color: darkslategray;
+    text-shadow: 1px 1px 1px lightblue;
+    text-align: center;
+    font-size: 2rem;
+}
+
+section p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: darkslategray;
+    line-height: 1.5rem;
+    text-shadow: 1px 1px 1px lightblue;
+    padding-left: 0.2rem;
+    -webkit-text-stroke-width: .01px;
+    -webkit-text-stroke-color: white;
+}
+
+.CreatureAssignment {
+    text-align: center;
+}
+
+.GoldBadgeChallenges {
+    text-align: center;
+}
+
+.GroupProjects {
+    text-align: center;
+}
+
+.ASPNetMVC {
+    text-align: center;
+}
+
+.StaticStoreLayout{
+    text-align: center;
+}
